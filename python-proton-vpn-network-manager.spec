@@ -1,5 +1,5 @@
 Name:		python-proton-vpn-network-manager
-Version:	0.12.14
+Version:	0.13.4
 Release:	1
 Source0:	https://github.com/ProtonVPN/python-proton-vpn-network-manager/archive/refs/tags/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Provides the necessary functionality for other components to interact with NetworkManager
